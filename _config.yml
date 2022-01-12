@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Hieu A. Doan"
+title                    : "Home"
 title_separator          : "-"
-name                     : &name "Hieu A. Doan"
+name                     : &name "Hieu Anh Doan"
 description              : &description "personal description"
 url                      : https://hieuadoan.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,10 +80,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Hieu A. Doan"
+  name             : "Hieu Anh Doan"
   avatar           : "profilePic.jpg"
-  bio              : "Ph.D. in Chemical Engineering"
-  location         : "Chicago, IL"
+  bio              : "Postdoctoral appointee at Argonne National Laboratory"
+  location         : "Lemont, IL"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : ""

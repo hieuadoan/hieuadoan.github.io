@@ -8,8 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-<div style="text-align: justify"> A chemical engineer by training, I am most passionate about using my skills to solve engineering and scientfic problems. My current research interest is in developing intelligent, autonomous workflows such as AI-guided molecular simulations and self-driving robotic experiments to accelerate materials discovery. </div>
-
+<div style="text-align: justify"> A chemical engineer by training, I am most passionate about using my skills to solve engineering and scientfic problems. My current research interest is in developing intelligent, autonomous workflows such as AI-guided molecular simulations and self-driving robotic experiments to accelerate materials discovery. </div>  
 
 Honors and Awards
 ===

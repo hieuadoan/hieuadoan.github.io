@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-A chemical engineer by training, I am most passionate about using my skills to solve engineering and scientfic problems. Currently, my interest is in developing intelligent, autonomous workflows such as AI-guided simulations and self-driving experiments to accelerate materials discovery for energy production and storage applications.
+<div style="text-align: right"> A chemical engineer by training, I am most passionate about using my skills to solve engineering and scientfic problems. My current research interest is in developing intelligent, autonomous workflows such as AI-guided molecular simulations and self-driving robotic experiments to accelerate materials discovery. </div>
 
 Honors and Awards
 ===
-- Best Paper Award from Joint Center of Energy Storage Research (JCESR)
+- Best Paper Award from Joint Center of Energy Storage Research
 - Best Poster Presentation at the Argonne Postdoctoral Symposium
 - Best Fundamental Paper Award from the American Institute of Chemical Engineers 
 - Kokes Travel Award for the 24th North American Catalysis Society Meeting

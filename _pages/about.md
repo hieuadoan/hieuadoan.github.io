@@ -12,12 +12,9 @@ A chemical engineer by training, I am most passionate about using my skills to s
 
 Honors and Awards
 ===
-2020 Best Paper Award from Joint Center of Energy Storage Research (JCESR)
-
-2019 Best Poster Presentation at the Argonne Postdoctoral Symposium
-
-2018 Best Fundamental Paper Award from the American Institute of Chemical Engineers 
-
-2015 Kokes Travel Award for the 24th North American Catalysis Society Meeting
-
-2014 Best Fundamental Paper award from the American Institute of Chemical Engineers 
+- Best Paper Award from Joint Center of Energy Storage Research (JCESR)
+- Best Poster Presentation at the Argonne Postdoctoral Symposium
+- Best Fundamental Paper Award from the American Institute of Chemical Engineers 
+- Kokes Travel Award for the 24th North American Catalysis Society Meeting
+- Provost Undergraduate Research Scholarship 
+- Summer Undergraduate Research Fellowship 

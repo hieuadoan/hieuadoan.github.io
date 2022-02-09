@@ -55,9 +55,28 @@ Note: * = Equal Contribution
 				<a href="https://pubs.acs.org/doi/abs/10.1021/acs.chemmater.1c02040">Discovery of Energy Storage Molecular Materials using Quantum Chemistry-guided Multiobjective Bayesian Optimization</a>.
 			</span><br />
 			<span class="authors">
-				G. Agarwal*, <b>H. A. Doan</b>*, Lily A. Robertson, Lu Zhang, R. S. Assary.
+				G. Agarwal*, <b>H. A. Doan</b>*, L. A. Robertson, L. Zhang, R. S. Assary.
 			</span><br />
 			<span class="venuetype"></span><span class="venue">Chemistry of Materials 33, 8133-8144, 2021</span>.
+			<br />
+			<span class="links">
+			</span>
+		</td>
+  </tr>
+  <tr>
+		<td>
+			<span class="date">
+				
+			</span>
+    </td>
+		<td class="publication">
+			<span class="pubtitle">
+				<a href="https://pubs.acs.org/doi/10.1021/acsenergylett.1c01675">Experimental Protocols for Studying Organic Non-aqueous Redox Flow Batteries</a>.
+			</span><br />
+			<span class="authors">
+				M. Li, S. A. Odom, A. R. Pancoast, L. A. Robertson, T. P. Vaid, G. Agarwal, <b>H. A. Doan</b>, Y. Wang, T. M. Suduwella, S. R. Bheemireddy, R. H. Ewoldt, R. S. Assary, L. Zhang, M. S. Sigman, and S. D. Minteer.
+			</span><br />
+			<span class="venuetype"></span><span class="venue">ACS Energy Letters 6, 3932-3943, 2021</span>.
 			<br />
 			<span class="links">
 			</span>

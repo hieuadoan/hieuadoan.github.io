@@ -23,8 +23,8 @@ Note: * = Equal Contribution
         
 			</span>
 		</td>
-		<td class="publication">
-			<span class="pubtitle">
+	  <td class="publication">
+		  <span class="pubtitle">
 				Accelerating Catalyst Screening via Machine-learned Local Coordination Graph Representations.
 			</span><br />
 			<span class="authors">
@@ -35,7 +35,7 @@ Note: * = Equal Contribution
 			<span class="links">
 			</span>
 		</td>
-	</tr>
+  </tr>
 	<tr>
 		<td>
 			<span class="date">
@@ -49,7 +49,7 @@ Note: * = Equal Contribution
         
         
 			</span>
-		</td>
+    </td>
 		<td class="publication">
 			<span class="pubtitle">
 				<a href="https://pubs.acs.org/doi/abs/10.1021/acs.chemmater.1c02040">Discovery of Energy Storage Molecular Materials using Quantum Chemistry-guided Multiobjective Bayesian Optimization</a>.
@@ -62,7 +62,7 @@ Note: * = Equal Contribution
 			<span class="links">
 			</span>
 		</td>
-	</tr>
+  </tr>
 	<tr>
 		<td>
 			<span class="date">
@@ -88,7 +88,7 @@ Note: * = Equal Contribution
 			<br />
 			<span class="links">
 			</span>
-		</td>
-	</tr>
+	  </td>
+  </tr>
 </tbody>
 </table>

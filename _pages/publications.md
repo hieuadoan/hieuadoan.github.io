@@ -98,7 +98,7 @@ Note: * = Equal Contribution
 		</td>
 		<td class="publication">
 			<span class="pubtitle">
-				<a href="https://pubs.acs.org/doi/abs/10.1021/cs200693g">NaBr Poisoning of Au/TiO2 Cat- alysts: Effects on Kinetics, Poisoning Mechanism, and Estimation of the Number of Catalytic Active Sites</a>.
+				<a href="https://pubs.acs.org/doi/abs/10.1021/cs200693g">NaBr Poisoning of Au/TiO2 Catalysts: Effects on Kinetics, Poisoning Mechanism, and Estimation of the Number of Catalytic Active Sites</a>.
 			</span><br />
 			<span class="authors">
 				B. D. Chandler, S. Kendell, <b>H. Doan</b>, R. Korkosz, L. C. Grabow, and C. J. Pursell.

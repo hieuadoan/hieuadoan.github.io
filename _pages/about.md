@@ -13,7 +13,7 @@ A chemical engineer by training, I am most passionate about using my skills to s
 Honors and Awards
 ===
 - 2020 Best Paper Award from Joint Center of Energy Storage Research
-- 2019 cBest Poster Presentation at the Argonne Postdoctoral Symposium
+- 2019 Best Poster Presentation at the Argonne Postdoctoral Symposium
 - 2018 Best Fundamental Paper Award from the American Institute of Chemical Engineers 
 - 2015 Kokes Travel Award for the 24th North American Catalysis Society Meeting
 - 2008 Provost Undergraduate Research Scholarship 

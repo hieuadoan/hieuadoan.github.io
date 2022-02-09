@@ -36,6 +36,25 @@ Note: * = Equal Contribution
 			</span>
 		</td>
   </tr>
+  <tr>
+		<td>
+			<span class="date">
+				
+			</span>
+		</td>
+	  <td class="publication">
+		  <span class="pubtitle">
+				Mesolytic Cleavage of Homobenzylic Ethers for Programmable End-of-Life Function in Redoxmers.
+			</span><br />
+			<span class="authors">
+				H. Qian*, M. J. Counihan*, <b>H. A. Doan</b>*, N. A. Ibrahim, A. S. Danis, W. Setwipatanachai, N. S. Purwanto, J. Rodriguez-Lopez, R. S. Assary, and J. S. Moore.
+			</span><br />
+			<span class="venuetype"></span><span class="venue">In revision</span>.
+			<br />
+			<span class="links">
+			</span>
+		</td>
+  </tr>
 	<tr>
 		<td>
 			<span class="date">
@@ -81,6 +100,109 @@ Note: * = Equal Contribution
 			<span class="links">
 			</span>
 		</td>
+  </tr>
+  <tr>
+		<td>
+			<span class="date">
+				
+			</span>
+    </td>
+		<td class="publication">
+			<span class="pubtitle">
+				<a href="https://pubs.acs.org/doi/abs/10.1021/acs.jpcc.1c02387">Identification of Active Metal Carbide and Nitride Catalytic Facets for Hydrodeoxygenation Reactions</a>.
+			</span><br />
+			<span class="authors">
+				M. Zhou, <b>H. A. Doan</b>, L. S. Curtiss, and R. S. Assary.
+			</span><br />
+			<span class="venuetype"></span><span class="venue">Journal of Physical Chemistry C 125, 8630-8637, 2021</span>.
+			<br />
+			<span class="links">
+			</span>
+		</td>
+  </tr>
+  <tr>
+		<td>
+			<span class="date">
+				
+			</span>
+    </td>
+		<td class="publication">
+			<span class="pubtitle">
+				<a href="https://pubs.rsc.org/en/content/articlelanding/2021/ta/d1ta04297a/unauth">TEMPO Allegro: Liquid Catholyte Redoxmers for Nonaqueous Redox Flow Batteries</a>.
+			</span><br />
+			<span class="authors">
+				Y. Zhao, J. Zhang, G. Agarwal, Z. Yu, R. E. Corman, Y. Wang, L. A. Robertson, Z. Shi, <b>H. A. Doan</b>, R. H. Ewoldt, I. A. Shkrob, R. S. Assary, L. Cheng, V. Srinivasan, S. J. Baninec, L. Zhang.
+			</span><br />
+			<span class="venuetype"></span><span class="venue">Journal of Materials Chemistry A 9, 16769-16775, 2021</span>.
+			<br />
+			<span class="links">
+			</span>
+		</td>
+  </tr>
+  <tr>
+		<td>
+			<span class="date">
+				
+				<big><strong>2020</strong></big><br />
+				
+        
+				
+				
+        
+        
+        
+			</span>
+		</td>
+		<td class="publication">
+			<span class="pubtitle">
+				<a href="https://iopscience.iop.org/article/10.1149/1945-7111/ab9c7b/meta">Molecular Structure and Electron Affinity of Metal-Solvent Complexes: Insights from Density Functional Theory Simulations</a>.
+			</span><br />
+			<span class="authors">
+				G. Agarwal, <b>H. A. Doan</b>, and R. S. Assary.
+			</span><br />
+			<span class="venuetype"></span><span class="venue">Journal of The Electrochemical Society 167, 100545, 2020</span>.
+			<br />
+			<span class="links">
+			</span>
+	  </td>
+  </tr>
+  <tr>
+		<td>
+			<span class="date">
+        
+			</span>
+		</td>
+		<td class="publication">
+			<span class="pubtitle">
+				<a href="https://pubs.acs.org/doi/abs/10.1021/acs.chemmater.0c00768">Quantum Chemistry-informed Active Learning to Accelerate the Design and Discovery of Sustainable Energy Storage Materials</a>.
+			</span><br />
+			<span class="authors">
+				<b>H. A. Doan</b>, G. Agarwal, H. Qian, M. J. Counihan, J. Rodriguez-Lopez, J. S. Moore, and R. S. Assary.
+			</span><br />
+			<span class="venuetype"></span><span class="venue">Chemistry of Materials 32, 6338-6346, 2020</span>.
+			<br />
+			<span class="links">
+			</span>
+	  </td>
+  </tr>
+  <tr>
+		<td>
+			<span class="date">
+        
+			</span>
+		</td>
+		<td class="publication">
+			<span class="pubtitle">
+				<a href="https://pubs.acs.org/doi/abs/10.1021/acs.jpcc.9b10126">Effect of Ni Dopant on Furan Activation over Mo2C Surface: Insights from First-Principles-Based Microkinetic Modeling</a>.
+			</span><br />
+			<span class="authors">
+				M. Zhou, <b>H. A. Doan</b>, L. S. Curtiss, and R. S. Assary.
+			</span><br />
+			<span class="venuetype"></span><span class="venue">Journal of Physical Chemistry C 124, 5636-5646, 2020</span>.
+			<br />
+			<span class="links">
+			</span>
+	  </td>
   </tr>
 	<tr>
 		<td>

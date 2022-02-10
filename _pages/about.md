@@ -10,6 +10,22 @@ redirect_from:
 
 A chemical engineer by training, I am most passionate about using my skills to solve engineering and scientfic problems. My current research interest is in developing intelligent, autonomous workflows such as AI-guided molecular simulations and self-driving robotic experiments to accelerate materials discovery.
 
+<html>
+  <body>
+    <div class='right'>
+      <b>Research interest</b>
+      <ul>
+        <li>Coffee</li>
+        <li>Tea</li>
+        <li>Milk</li>
+      </ul>
+    </div>
+    <div class='left'>
+      Education
+    </div>
+  </body>
+</html>
+
 Honors and Awards
 ===
 - 2020 Best Paper Award from Joint Center of Energy Storage Research

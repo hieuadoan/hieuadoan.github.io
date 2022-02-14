@@ -12,7 +12,7 @@ My name is Hieu Anh Doan and I am a postdoctoral appointee in the Materials Scie
 
 Honors and Awards
 ===
-- 2020 Best Paper Award from Joint Center of Energy Storage Research
+- 2020 Best Paper Award from <a href="https://www.jcesr.org">Joint Center for Energy Storage Research</a>
 - 2019 Best Poster Presentation at the Argonne Postdoctoral Symposium
 - 2018 Best Fundamental Paper Award from the American Institute of Chemical Engineers 
 - 2015 Kokes Travel Award for the 24th North American Catalysis Society Meeting

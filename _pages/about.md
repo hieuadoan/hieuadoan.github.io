@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-My name is Hieu Anh Doan and I am a postdoctoral appointee in the Materials Science Division at Argonne National Laboratory. A chemical engineer by training and a generalist by choice, I am most passionate about using my skills to solve various engineering and scientfic problems. My current research interest is in developing intelligent, autonomous workflows such as AI-guided molecular simulations and self-driving robotic experiments to accelerate materials discovery.
+My name is Hieu Anh Doan and I am an Assistant Scientist in the Materials Science Division at Argonne National Laboratory. A chemical engineer by training and a generalist by choice, I am most passionate about using my skills to solve various engineering and scientfic problems. My current research interest is in developing intelligent, autonomous workflows such as AI-guided molecular simulations and self-driving robotic experiments to accelerate materials discovery.
 
 Honors and Awards
 ===

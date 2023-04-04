@@ -12,6 +12,7 @@ I am an Assistant Scientist in the Materials Science Division at Argonne Nationa
 
 Honors and Awards
 ===
+- 2022 Best Paper Award from <a href="https://www.jcesr.org">Joint Center for Energy Storage Research</a>
 - 2020 Best Paper Award from <a href="https://www.jcesr.org">Joint Center for Energy Storage Research</a>
 - 2019 Best Poster Presentation at the Argonne Postdoctoral Symposium
 - 2018 Best Fundamental Paper Award from the American Institute of Chemical Engineers 

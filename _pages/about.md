@@ -12,7 +12,7 @@ I am an Assistant Scientist in the Materials Science Division at Argonne Nationa
 
 Honors and Awards
 ===
-- 2023 Poster Session Award from the 5th Battery and Energy Storage Conference | AIChE
+- 2023 Poster Session Award from the 5th Battery and Energy Storage Conference
 - 2022 Best Paper Award from the <a href="https://www.jcesr.org">Joint Center for Energy Storage Research</a>
 - 2020 Best Paper Award from the <a href="https://www.jcesr.org">Joint Center for Energy Storage Research</a>
 - 2019 Best Poster Presentation at the Argonne Postdoctoral Symposium

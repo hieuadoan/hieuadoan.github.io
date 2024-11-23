@@ -4,8 +4,6 @@ title: "Apple Pie"
 permalink: /private/apple-pie/
 ---
 
-# Apple Pie
-
 ## Ingredients
 - 6 medium apples, peeled and sliced
 - 1 cup sugar

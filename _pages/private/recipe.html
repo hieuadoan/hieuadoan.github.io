@@ -6,7 +6,7 @@ permalink: /private/
 <div class="recipe-list">
   <ul>
     {% for page in site.pages %}
-      {% if page.path contains 'private' and page.title != 'My Private Recipes' %}
+      {% if page.path contains 'private' and page.title != 'My Favorite Recipes' %}
         <li><a href="{{ page.url }}">{{ page.title }}</a></li>
       {% endif %}
     {% endfor %}

@@ -11,3 +11,14 @@ function passwordProtect() {
     }
   }
   
+  function filterCategory(category) {
+    const recipeCards = document.querySelectorAll(".recipe-card");
+  
+    recipeCards.forEach((card) => {
+      if (category === "all" || card.dataset.category === category) {
+        card.style.display = "block";
+      } else {
+        card.style.display = "none";
+      }
+    });
+  }  

@@ -9,12 +9,15 @@ layout: compress
   <head>
     {% include head.html %}
     {% include head/custom.html %}
+    <script src="{{ '/assets/js/script.js' | relative_url }}"></script>
+
   </head>
 
   <body>
 
     {% include browser-upgrade.html %}
     {% include masthead.html %}
+    <script src="{{ '/assets/js/script.js' | relative_url }}"></script>
 
     {{ content }}
 

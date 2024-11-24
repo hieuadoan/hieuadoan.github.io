@@ -22,9 +22,9 @@ permalink: /private/flan/
 ## Instructions
 It is convenient to work on the caramel first, so that we have timet to let it cool down (around 30 minutes)
 ### The caramel
-    1. Mix sugar and water well together. Use a small whisk to dissolve the sugar. 
-    2. Put the mixture into a small pot. Ideally the pot should be light in color so that we can observe the color change in the caramel.
-    3. Use medium heat and wait. 
+1. Mix sugar and water well together. Use a small whisk to dissolve the sugar. 
+2. Put the mixture into a small pot. Ideally the pot should be light in color so that we can observe the color change in the caramel.
+3. Use medium heat and wait. 
 ### The custard
-    1. Preheat oven to 275°F / 135°F.
-    2. ...
+1. Preheat oven to 275°F / 135°F.
+2. ...

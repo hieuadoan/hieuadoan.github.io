@@ -24,12 +24,11 @@ function passwordProtect() {
   }  
 
   function showEnglish() {
-    document.getElementById("english-content").style.display = "block";
-    document.getElementById("vietnamese-content").style.display = "none";
+    document.getElementById("recipe-content").innerHTML = "{{ page.english | markdownify }}";
   }
   
   function showVietnamese() {
-    document.getElementById("english-content").style.display = "none";
-    document.getElementById("vietnamese-content").style.display = "block";
+    document.getElementById("recipe-content").innerHTML = "{{ page.vietnamese | markdownify }}";
   }
+  
   

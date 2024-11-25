@@ -11,7 +11,7 @@ permalink: /private/flan/
 
 <!-- English Translation -->
 <div id="english-content" markdown=1>
-  ## Ingredients: 4 servings, each in an 8oz soup cup or ramekin
+## Ingredients: 4 servings, each in an 8oz soup cup or ramekin
   ### The caramel
   - Sugar: 1/2 cup
   - Water: 1/2 cup

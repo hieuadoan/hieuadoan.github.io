@@ -6,11 +6,11 @@ permalink: /private/flan/
 
 <div id="recipe-content">
   <!-- English Version -->
-  <div id="english-content">
+  <div id="english-content" markdown="1" style="display: block;">
     <h1>Flan/Crème Caramel</h1>
     <p><a href="https://chefjeanpierre.com/recipes/dessert/creme-caramel/" target="_blank">Original recipe</a></p>
 
-    {% markdown %}
+    
     ## Ingredients: 4 servings, each in an 8oz soup cup or ramekin
     ### The caramel
     - Sugar: 1/2 cup
@@ -45,12 +45,12 @@ permalink: /private/flan/
     6. Add the final mixture to the cups. Put all the cups inside another container and fill with hot (not boiling!) water halfway to the height of these cups.
     7. Put everything into the oven and cook for 1 hour.
     8. Take everything out and let the cups cool to room temperature (~3 hours). Put them into the fridge for at least 8 hours. Enjoy!
-    {% endmarkdown %}
+    
   </div>
 
   <!-- Vietnamese Version -->
-  <div id="vietnamese-content" style="display: none;">
-    {% markdown %}
+  <div id="vietnamese-content" markdown="1" style="display: none;">
+    
     ## Nguyên liệu: 4 phần ăn, mỗi phần trong một cốc soup 8oz hoặc ramekin
     ### Caramel
     - Đường: 1/2 cốc
@@ -85,7 +85,7 @@ permalink: /private/flan/
     6. Chia hỗn hợp cuối cùng vào các cốc. Đặt tất cả các cốc vào một khay khác và đổ nước nóng (không sôi) ngập nửa chiều cao các cốc này.
     7. Đặt tất cả vào lò và nướng trong 1 giờ.
     8. Lấy ra và để các cốc nguội ở nhiệt độ phòng (~3 giờ). Sau đó, cho vào tủ lạnh ít nhất 8 giờ. Thưởng thức!
-    {% endmarkdown %}
+    
   </div>
 </div>
 

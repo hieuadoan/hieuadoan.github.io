@@ -6,12 +6,12 @@ permalink: /private/flan/
 
 <div>
   <button onclick="showEnglish()">English</button>
-  <button onclick="showVietnamese()">Vietnamese</button>
+  <button onclick="showVietnamese()">Tiếng Việt</button>
 </div>
 
 <!-- English Translation -->
 <div id="english-content" markdown=1>
-
+[Original recipe]("https://chefjeanpierre.com/recipes/dessert/creme-caramel/")
 ## Ingredients: 4 servings, each in an 8oz soup cup or ramekin
 ### The caramel
 - Sugar: 1/2 cup
@@ -50,7 +50,7 @@ permalink: /private/flan/
 
 <!-- Vietnamese Translation -->
 <div id="vietnamese-content" markdown=1 style="display: none;">
-
+[Công thức gốc]("https://chefjeanpierre.com/recipes/dessert/creme-caramel/")
 ## Nguyên liệu: 4 phần ăn, mỗi phần trong một cốc soup 8oz hoặc ramekin
 ### Caramel
 - Đường: 1/2 cốc

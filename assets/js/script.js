@@ -22,3 +22,14 @@ function passwordProtect() {
       }
     });
   }  
+
+  function showEnglish() {
+    document.getElementById("english-content").style.display = "block";
+    document.getElementById("vietnamese-content").style.display = "none";
+  }
+  
+  function showVietnamese() {
+    document.getElementById("english-content").style.display = "none";
+    document.getElementById("vietnamese-content").style.display = "block";
+  }
+  

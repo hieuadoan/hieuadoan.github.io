@@ -71,3 +71,18 @@
     grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
     gap: 20px;
   }  
+
+  button {
+    padding: 10px 15px;
+    margin: 5px;
+    border: none;
+    background-color: #007acc;
+    color: white;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #005ea6;
+  }
+  

@@ -10,6 +10,7 @@ permalink: /private/flan/
     <h1>Flan/Crème Caramel</h1>
     <p><a href="https://chefjeanpierre.com/recipes/dessert/creme-caramel/" target="_blank">Original recipe</a></p>
 
+    {% markdown %}
     ## Ingredients: 4 servings, each in an 8oz soup cup or ramekin
     ### The caramel
     - Sugar: 1/2 cup
@@ -26,8 +27,6 @@ permalink: /private/flan/
     - Vanilla: 1 tablespoon
 
     ## Instructions
-    It is convenient to work on the caramel first, so that we have time to let it cool down completely (around 30 minutes).
-
     ### The caramel
     1. Prepare the cups by adding a tiny bit of non-stick cooking spray. Spread it evenly around the inside.
     2. Mix sugar and water well together. Use a small whisk to dissolve the sugar. 
@@ -38,7 +37,7 @@ permalink: /private/flan/
     7. Distribute the caramel to the cups. Let it cool down in the fridge for 30 minutes.
 
     ### The custard and finisher
-    1. Preheat oven to 275°F / 135°F.
+    1. Preheat oven to 275°F / 135°C.
     2. Mix milk and heavy whipping cream together in a cooking pot and heat up to hot but NOT boiling.
     3. Add salt, sugar (and white chocolate). Stir well to dissolve.
     4. Put 4 eggs in a bowl. Add vanilla and whisk it very lightly to break up the egg yolks.
@@ -46,13 +45,12 @@ permalink: /private/flan/
     6. Add the final mixture to the cups. Put all the cups inside another container and fill with hot (not boiling!) water halfway to the height of these cups.
     7. Put everything into the oven and cook for 1 hour.
     8. Take everything out and let the cups cool to room temperature (~3 hours). Put them into the fridge for at least 8 hours. Enjoy!
+    {% endmarkdown %}
   </div>
 
   <!-- Vietnamese Version -->
   <div id="vietnamese-content" style="display: none;">
-    <h1>Flan/Crème Caramel</h1>
-    <p><a href="https://chefjeanpierre.com/recipes/dessert/creme-caramel/" target="_blank">Công thức gốc</a></p>
-
+    {% markdown %}
     ## Nguyên liệu: 4 phần ăn, mỗi phần trong một cốc soup 8oz hoặc ramekin
     ### Caramel
     - Đường: 1/2 cốc
@@ -69,8 +67,6 @@ permalink: /private/flan/
     - Vanilla: 1 muỗng canh
 
     ## Hướng dẫn
-    Thật tiện lợi khi bắt đầu với caramel trước, vì chúng ta có thể để nó nguội hoàn toàn (~30 phút).
-
     ### Caramel
     1. Chuẩn bị các cốc bằng cách thêm một chút dầu chống dính. Phết đều quanh bên trong.
     2. Trộn đường và nước với nhau. Dùng cái đánh trứng nhỏ để hòa tan đường.
@@ -89,6 +85,7 @@ permalink: /private/flan/
     6. Chia hỗn hợp cuối cùng vào các cốc. Đặt tất cả các cốc vào một khay khác và đổ nước nóng (không sôi) ngập nửa chiều cao các cốc này.
     7. Đặt tất cả vào lò và nướng trong 1 giờ.
     8. Lấy ra và để các cốc nguội ở nhiệt độ phòng (~3 giờ). Sau đó, cho vào tủ lạnh ít nhất 8 giờ. Thưởng thức!
+    {% endmarkdown %}
   </div>
 </div>
 

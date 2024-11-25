@@ -2,7 +2,15 @@
 layout: single
 title: "Flan/Crème Caramel"
 permalink: /private/flan/
-english: |
+---
+
+<div>
+  <button onclick="showEnglish()">English</button>
+  <button onclick="showVietnamese()">Vietnamese</button>
+</div>
+
+<!-- English Translation -->
+<div id="english-content">
   ## Ingredients: 4 servings, each in an 8oz soup cup or ramekin
   ### The caramel
   - Sugar: 1/2 cup
@@ -37,8 +45,10 @@ english: |
   6. Add the final mixture to the cups. Put all the cups inside another container and fill with hot (not boiling!) water halfway to the height of these cups.
   7. Put everything into the oven and cook for 1 hour.
   8. Take everything out and let the cups cool to room temperature (~3 hours). Put them into the fridge for at least 8 hours. Enjoy!
+</div>
 
-vietnamese: |
+<!-- Vietnamese Translation -->
+<div id="vietnamese-content" style="display: none;">
   ## Nguyên liệu: 4 phần ăn, mỗi phần trong một cốc soup 8oz hoặc ramekin
   ### Caramel
   - Đường: 1/2 cốc
@@ -73,13 +83,4 @@ vietnamese: |
   6. Chia hỗn hợp cuối cùng vào các cốc. Đặt tất cả các cốc vào một khay khác và đổ nước nóng (không sôi) ngập nửa chiều cao các cốc này.
   7. Đặt tất cả vào lò và nướng trong 1 giờ.
   8. Lấy ra và để các cốc nguội ở nhiệt độ phòng (~3 giờ). Sau đó, cho vào tủ lạnh ít nhất 8 giờ. Thưởng thức!
----
-
-<div>
-  <button onclick="showEnglish()">English</button>
-  <button onclick="showVietnamese()">Vietnamese</button>
-</div>
-
-<div id="recipe-content">
-  {{ page.english | markdownify }}
 </div>
